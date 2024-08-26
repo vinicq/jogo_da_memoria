@@ -50,5 +50,6 @@ Bom, nesse caso o jogo é **quase** assim. A única diferença é que você joga
 
 ### CONTRIBUIDORES
 * [JoaoSCoelho](https://github.com/JoaoSCoelho) 
+* [Vinicius Queiroz](https://github.com/vinicq)
 
 **Autor: [AuroraDark](https://github.com/AuroraDark) :)** 
